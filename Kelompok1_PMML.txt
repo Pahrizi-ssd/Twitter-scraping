@@ -1,0 +1,267 @@
+date	author_id	text	likes	retweets	replies	clean_text	sentiment	confidence
+2025-11-17 11:12:57+00:00	169445636	"Melihat Stasiun Shenzhenbei (Shenzhen North) buat naik kereta cepat pulang dari Shenzhen ke Hong Kong
+
+Melihat skala stasiun kereta cepat di China yang sebesar ini sebenernya menunjukkan stasiun Halim sebetulnya untuk standar Tiongkok itu gak besar-besar amat 😅 https://t.co/5H15AUMpKG"	11	2	1	melihat stasiun shenzhenbei shenzhen north buat naik kereta cepat pulang shenzhen hong kong melihat skala stasiun kereta cepat china sebesar sebenernya menunjukkan stasiun halim standar tiongkok gak besar besar	positive	0.5110319256782532
+2025-11-17 11:08:28+00:00	169445636	"Melihat Stasiun Shenzhenbei (Shenzhen North) buat naik kereta cepat pulang dari Shenzhen ke Hong Kong
+
+Melihat skala stasiun kereta cepat di China yang sebesar ini sebenernya menunjukkan stasiun Halim sebetulnya untuk standar Tiongkok itu gak besar-besar amat 😅 https://t.co/sx1a0q5ljO"	7	0	1	melihat stasiun shenzhenbei shenzhen north buat naik kereta cepat pulang shenzhen hong kong melihat skala stasiun kereta cepat china sebesar sebenernya menunjukkan stasiun halim standar tiongkok gak besar besar	positive	0.4732450246810913
+2025-11-17 11:06:16+00:00	1129372831744053249	"@RikeSants Nyesek banget buat dijadiin bahan pembelajaran negara2 di asia.
+""Kalo mau bikin kereta cepat pikirkan baik2 jangan sampe kejadian kaya indonesia""."	0	0	0	nyesek banget buat dijadiin bahan pembelajaran negara asia kalo mau bikin kereta cepat pikirkan baik jangan sampe kejadian kaya indonesia	negative	0.9259456396102905
+2025-11-17 11:02:00+00:00	1471835353019387904	"KCIC II - 19. Menggoda Pegawai Gudang
+https://t.co/NmvLTSY8mf
+
+Ideku untuk menggoda pegawai di sebuah gudang di dekat kosan yang begitu menarik bagiku. Berdasarkan saran dari internet kini aku lakukan.
+Dan ternyata, semua terbukti benar, tepat, akurat!
+
+https://t.co/pzoLHEaWic https://t.co/M9ZjrduPif"	1	0	0	kcic menggoda pegawai gudang ideku menggoda pegawai sebuah gudang dekat kosan menarik bagiku berdasarkan saran internet kini aku lakukan ternyata semua terbukti benar tepat akurat	positive	0.7315508127212524
+2025-11-17 11:00:47+00:00	135795460	Makin Banyak yang Naik KA Parahyangan Meski Sudah Ada Kereta Cepat https://t.co/GaUdqZqeNJ	0	0	0	makin banyak naik parahyangan meski kereta cepat	neutral	0.7063778042793274
+2025-11-17 10:56:18+00:00	4755284968	"Mantan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menegaskan bahwa negara harus tetap membayar utang proyek kereta cepat Jakarta-Bandung atau Whoosh .
+
+Hal ini dikarenakan transaksi proyek Whoosh dilaksanakan sesuai aturan undang-undang. https://t.co/6QqIcuNc8v"	0	0	0	mantan menteri koordinator bidang politik hukum keamanan menko polhukam mahfud menegaskan negara tetap membayar utang proyek kereta cepat jakarta bandung whoosh dikarenakan transaksi proyek whoosh dilaksanakan sesuai aturan undang undang	neutral	0.7067274451255798
+2025-11-17 10:55:14+00:00	4755284968	"Mantan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menegaskan bahwa negara harus tetap membayar utang proyek kereta cepat Jakarta-Bandung atau Whoosh .
+
+Hal ini dikarenakan transaksi proyek Whoosh dilaksanakan sesuai aturan undang-undang. https://t.co/PUKsfaCC3V"	0	1	0	mantan menteri koordinator bidang politik hukum keamanan menko polhukam mahfud menegaskan negara tetap membayar utang proyek kereta cepat jakarta bandung whoosh dikarenakan transaksi proyek whoosh dilaksanakan sesuai aturan undang undang	neutral	0.7131727933883667
+2025-11-17 10:53:02+00:00	1660693008596213760	"@RikeSants NGAWUR. 
+Jepang iri, negara2 lain di Asia Tenggara pilih China, setelah WHOOSH jadi."	0	0	0	ngawur jepang iri negara asia tenggara pilih china whoosh jadi	negative	0.928774356842041
+2025-11-17 10:38:23+00:00	18129942	"Baca artikel ini dan share pendapat kalian di kolom komentar!
+https://t.co/vJvSbng4TR"	0	0	0	baca artikel share pendapat kalian kolom komentar	neutral	0.7594735622406006
+2025-11-17 10:23:41+00:00	2683801656	Kereta cepat apa Jalan di pelosok negeri https://t.co/oV9FaTMGkZ	0	0	0	kereta cepat apa jalan pelosok negeri	neutral	0.8413200378417969
+2025-11-17 10:23:08+00:00	1422404851481280518	"- KPK Selidiki Pembebasan Lahan Proyek Kereta Cepat Whoosh
+baca selengkapnya di https://t.co/gysvbvBZ4U https://t.co/ahPi2t2txw"	0	0	1	kpk selidiki pembebasan lahan proyek kereta cepat whoosh baca selengkapnya	neutral	0.8152784705162048
+2025-11-17 10:12:27+00:00	162627606	@iwanfals Buat bayar bunga whoosh aja	0	0	0	buat bayar bunga whoosh aja	neutral	0.5947095155715942
+2025-11-17 10:03:05+00:00	1349767675174535168	"@DedynurPalakka Bagaimana dengan data bahwa Whoosh itu rugi sekian triliun??!
+Data sahih kan itu...
+Siapa inisiasi nya?! Bisa diseret kan??! 
+
+Jokowisme adalah sesat.
+Tidak ada ajaran itu, aliran itu.
+Bahkan dianggap setara Nabi.
+
+Moral macam apa itu, belum mbahas kejadian di MK klo soal moral"	0	0	0	bagaimana data whoosh rugi sekian triliun data sahih kan siapa inisiasi nya diseret kan jokowisme sesat ajaran aliran bahkan dianggap setara nabi moral macam apa mbahas kejadian klo soal moral	negative	0.8511952757835388
+2025-11-17 09:47:28+00:00	1885555382514507776	KAI optimistis dapat menjalankan instruksi Presiden Prabowo untuk memperpanjang rute kereta cepat hingga Banyuwangi. Dirut KAI Bobby Rasyidin menyebut okupansi Whoosh terus naik dan operasional stabil. Pemerintah masih menyiapkan skema penyelesaian utang KCIC, sementara negosiasi https://t.co/DGgWRHTaoF	0	0	0	kai optimistis menjalankan instruksi presiden prabowo memperpanjang rute kereta cepat hingga banyuwangi dirut kai bobby rasyidin menyebut okupansi whoosh terus naik operasional stabil pemerintah menyiapkan skema penyelesaian utang kcic negosiasi	positive	0.70307457447052
+2025-11-17 09:47:09+00:00	2837811799	Bawa bawa whoosh yg emang lagi gak ada hubungannya samsek dengan whoosh gw mute, karna Highlight lo jadinya ngomongin whoosh...	0	0	0	bawa bawa whoosh emang gak hubungannya samsek whoosh mute karna highlight jadinya ngomongin whoosh	negative	0.6372326612472534
+2025-11-17 09:44:06+00:00	4200694752	"Untuk menyeret Jokowi dlm kasus Whoosh, KPK tunggu lampu hijau dari Prabowo. Untuk eksekusi Silfester, Kejaksaan tunggu lampu hijau dari siapa??
+
+Institusi Termul menyebabkan rusaknya tatanan hukum Indonesia. https://t.co/aCkQA56R6Z"	3	1	1	menyeret jokowi dlm kasus whoosh kpk tunggu lampu hijau prabowo eksekusi silfester kejaksaan tunggu lampu hijau siapa institusi termul menyebabkan rusaknya tatanan hukum indonesia	negative	0.8636032938957214
+2025-11-17 09:41:44+00:00	1609925940599214086	"Menolak lupa: 
+kcic tidak gunakan apbn, tidak ada jaminan dari pemerintah https://t.co/UEsQCOSUF7"	0	0	0	menolak lupa kcic gunakan apbn jaminan pemerintah	neutral	0.6686631441116333
+2025-11-17 09:41:25+00:00	1114186502672502784	Merch tergokil, tdnya mau ganci kcic juga. cuman y mau awak gantung mana.. tas dah penuh 😭 https://t.co/2absH2ipoc	1	0	0	merch tergokil tdnya mau ganci kcic cuman mau awak gantung mana tas dah penuh	neutral	0.3408036530017853
+2025-11-17 09:36:19+00:00	963751550	"@GNFI Berita tolol macam gini ternyata muncul juga klo kita buka google.
+Kebanyakan orang komennya related dgn keberadaan KCIC.
+Klo guwah mah komennya tu deu poin ajah.
+
+LU KALAU NGEBOHONG JANGAN KELEWATAN...
+LU PIKIR SAINDONESIA BODONYA SAMA KAYA TERMUL ??
+https://t.co/mXBksIr73O"	0	0	0	berita tolol macam gini ternyata muncul klo buka google kebanyakan orang komennya related dgn keberadaan kcic klo guwah mah komennya deu poin ajah kalau ngebohong jangan kelewatan pikir saindonesia bodonya sama kaya termul	negative	0.8247929811477661
+2025-11-17 09:33:59+00:00	1885555382514507776	Menteri Keuangan Purbaya Yudhi Sadewa menjelaskan perkembangan skema penyelesaian utang proyek kereta cepat Whoosh. Ia menyebut pembahasan terbaru mengarah pada pembagian peran antara pemerintah dan BPI Danantara. Kemenkeu kemungkinan hanya menangani infrastruktur seperti jalan https://t.co/bOV2t4pqGG	0	0	0	menteri keuangan purbaya yudhi sadewa menjelaskan perkembangan skema penyelesaian utang proyek kereta cepat whoosh menyebut pembahasan terbaru mengarah pembagian peran pemerintah bpi danantara kemenkeu kemungkinan menangani infrastruktur jalan	neutral	0.6163461804389954
+2025-11-17 09:28:47+00:00	1941143540	"Nikah Siri dalam Kacamata Islam
+
+#UmrahKeluarga #UmrahBersamaKeluarga #KHHafidzAbdurrahman #nikahsiri #senin #hariayah #bobibos #pahlawannasional #sman72 #zohranmamdani #whoosh #kpk #roysuryo https://t.co/TmNXRRDhxA"	0	0	0	nikah siri kacamata islam	neutral	0.5455254316329956
+2025-11-17 09:28:10+00:00	1885555382514507776	komentar dari pengamat politik Jepang menyoroti kondisi KCIC Whoosh yang dinilai terus merugi. Data yang dibahas menyebut penggunaan harian jauh di bawah target, biaya operasional membengkak, dan stasiun yang dinilai kurang strategis membuat pendapatan sulit tercapai. Situasi ini https://t.co/lech1lQfpa	0	0	0	komentar pengamat politik jepang menyoroti kondisi kcic whoosh dinilai terus merugi data dibahas menyebut penggunaan harian jauh bawah target biaya operasional membengkak stasiun dinilai kurang strategis membuat pendapatan sulit tercapai situasi	negative	0.9183557629585266
+2025-11-17 09:22:48+00:00	1223409418189987840	@mohmahfudmd Selama manusia2 korup di KPK dan Kapolrinya masih Jongos2nya Mulyono, mustahil kasus Korupsi jereta cepat Whoosh bakal berjalan dengan semestinya pak..Mereka para bajingsn itu ngga bakal berani, Ganti semua..itu baru bisa!!!	0	0	0	selama manusia korup kpk kapolrinya jongos nya mulyono mustahil kasus korupsi jereta cepat whoosh bakal berjalan semestinya pak bajingsn ngga bakal berani ganti semua baru	negative	0.824070930480957
+2025-11-17 09:20:49+00:00	847372542830444544	"Bersaing dengan Kereta Cepat Whoosh, Begini Nasib KA Parahyangan
+
+https://t.co/0baa3mGFrl"	0	0	0	bersaing kereta cepat whoosh begini nasib parahyangan	neutral	0.5087160468101501
+2025-11-17 09:16:25+00:00	2946768709	"mkzs- Hai semua kalian masih cari wh ch? 
+sini bisa banget pake wh @skyland_whoosh lagi open hc juga loh yukk buruan join
+📍Tangerang
+https://t.co/KDmENNzxnw"	0	0	0	mkzs hai semua kalian cari sini banget pake open loh yukk buruan join tangerang	neutral	0.6849023103713989
+2025-11-17 09:02:16+00:00	178549834	@randomable_ Malah bikin whoosh 🙂‍↕️ jkw jkw	0	0	0	malah bikin whoosh jkw jkw	positive	0.6689562201499939
+2025-11-17 09:01:33+00:00	45049631	@Rochman1974 @awikuchuz Cuci tangan...? Maksudnya whoosh, ikn...??? 😆😆😆	0	0	0	cuci tangan maksudnya whoosh ikn	neutral	0.4638475179672241
+2025-11-17 08:59:57+00:00	1945366720954425344	"Cina gak rugi apa2. Yg rugi Indonesia. Apa ruginya Cina? Apa iya Cina merasa rugi? Ada sejumlah analisis yang mengkhawatirkan bahwa Cina memaksakan proyek kereta cepat ini untuk mendapatkan barter Pulau/Kepulauan Natuna 
+#AdiliJokowiGibran 
+#AdiliJokowiGibran https://t.co/pOxfJ6h21X https://t.co/ydgEUDAUYe"	12	5	1	cina gak rugi apa rugi indonesia apa ruginya cina apa iya cina merasa rugi sejumlah analisis mengkhawatirkan cina memaksakan proyek kereta cepat mendapatkan barter pulau kepulauan natuna	negative	0.8612765669822693
+2025-11-17 08:51:12+00:00	1037959976520626176	@semurbetawi_ Mungkin whoosh bisa dipasang disini kak	0	0	1	mungkin whoosh dipasang disini kak	neutral	0.7886077165603638
+2025-11-17 08:51:05+00:00	1604184554415493120	"..dari pada peyan jadi pahlawan bayarin hutangnya whoosh sekian ratus triliun, lebih pantas peyan jadi pahlawan buat anak bangsa. bangun infrastruktur di pelosok negeri demi mereka.
+..tanggung jawab kok ke hutangnya bajingan tolol itu? kenapa bukan ke rakyat?
+
+@prabowo 
+@Gerindra https://t.co/yuoNbz2NlC"	0	0	0	peyan jadi pahlawan bayarin hutangnya whoosh sekian ratus triliun lebih pantas peyan jadi pahlawan buat anak bangsa bangun infrastruktur pelosok negeri tanggung jawab kok hutangnya bajingan tolol bukan rakyat	negative	0.6810404658317566
+2025-11-17 08:50:05+00:00	1985217320558678016	"Lihat video lina! #TikTok https://t.co/lwp9qxtNwp
+
+Anak anak saya pasti ikut jejak saya ga mungkin ikut jejak whoosh"	0	0	0	lihat video lina anak anak ikut jejak mungkin ikut jejak whoosh	positive	0.6125633716583252
+2025-11-17 08:46:55+00:00	1737058663662231552	@yusufgunawan @teddykusumaw81 @PemkotMalang @KAI121 @EmilDardak @infomalang @Malangraya_info Akeh sing rusak &amp; bahaya ndek endi2, koyok ndek Kebalen &amp; Fly over Kotalama, mungkin anggaran biaya perbaikan e wes kesedot gae bayar utang Whoosh 😄	0	0	0	akeh sing rusak amp bahaya ndek endi koyok ndek kebalen amp fly over kotalama mungkin anggaran biaya perbaikan wes kesedot gae bayar utang whoosh	negative	0.6074414253234863
+2025-11-17 08:34:55+00:00	1165864549	Sebelum mamah bapa gak ada cuma pengen ngajak mereka nyobain kereta cepat, LRT, MRT, jalan-jalan di Jakarta. Lihat monas, shalat di istiqlal. Bismillah goals taun depan deh.	0	0	1	mamah bapa gak cuma pengen ngajak nyobain kereta cepat lrt mrt jalan jalan jakarta lihat monas shalat istiqlal bismillah goals taun depan deh	positive	0.49470943212509155
+2025-11-17 08:27:03+00:00	214299051	"JAKARTA - BANDUNG MENIKMATI KERETA WHOOSH
+
+Stasiun Halim Jakarta buka loket dari jam 05.30 WIB
+Tarif Jakarta Bandung Rp250.000/orang ekonomi
+Waktu tempuh saat ini 45 menit Halim - Tegalluar
+Stasiun Whoosh saat ini :
+
+Halim - Karawang - Padalarang - Tegalluar https://t.co/qFvslFXUAm"	0	0	0	jakarta bandung menikmati kereta whoosh stasiun halim jakarta buka loket jam wib tarif jakarta bandung orang ekonomi waktu tempuh menit halim tegalluar stasiun whoosh halim karawang padalarang tegalluar	neutral	0.8967848420143127
+2025-11-17 08:26:43+00:00	1119586774710284294	padahal lebih enak beli dadakan pas nyampe kcic trus cetak di mesin :(	0	0	0	padahal lebih enak beli dadakan pas nyampe kcic trus cetak mesin	negative	0.7362751960754395
+2025-11-17 08:26:11+00:00	1119586774710284294	eh?! kenapa sekarang whoosh gabisa beli pake mesin siiiiikkkk???? kenapa harus full dialihin digitalisasi?	0	0	1	sekarang whoosh gabisa beli pake mesin siiiiikkkk full dialihin digitalisasi	negative	0.7889955639839172
+2025-11-17 08:18:42+00:00	1090439964683231232	@txtdrimedia daripada mematikan peternakan lokal, mending buat bayar itu utang whoosh, kayanya danantara isinya orang2 kebelet korup biar pas ditinggal mati, dia masuk nerakanya bareng2 sama anak cucu	2	0	1	mematikan peternakan lokal mending buat bayar utang whoosh kayanya danantara isinya orang kebelet korup biar pas ditinggal mati masuk nerakanya bareng sama anak cucu	negative	0.8779035210609436
+2025-11-17 08:18:23+00:00	1550848018185797634	@bronispait @havisman @ferrykoto @jokowi Ya jangan dong, whoosh kan proyek dan ambisi geng solo. Biar saja mrk yg selesaikan. APBN cuma buat kemaslahatan rakyat seluruh Indonesia, seperti perbaikan jalan² negara agar anak² dan guru² sekolah tidak celaka. Banyak kaannn videonya? RI7 cuek, semoga RI8 tidak	0	0	0	jangan dong whoosh kan proyek ambisi geng solo biar mrk selesaikan apbn cuma buat kemaslahatan rakyat seluruh indonesia perbaikan jalan negara anak guru sekolah celaka banyak kaannn videonya cuek semoga	negative	0.5942065715789795
+2025-11-17 08:13:54+00:00	1327592034815811584	"@AgusSud22579681 Ya berarti fix jokowi itu idiot kalo ngikutin kemauan kalian
+
+Justru tiroris akan semakin punya senjata sampai 2029
+""Kami udah liat kok ternyata palsu""
+Hakimnya ya tiroris sendiri
+
+Dahlah mending AHY fokus berprestasi aja segera bikin feasibility study kereta cepat sd Banyuwangi"	0	0	0	berarti fix jokowi idiot kalo ngikutin kemauan kalian justru tiroris semakin punya senjata udah liat kok ternyata palsu hakimnya tiroris sendiri dahlah mending ahy fokus berprestasi aja segera bikin feasibility study kereta cepat banyuwangi	negative	0.6514711976051331
+2025-11-17 08:09:25+00:00	1245999940637044736	@BrownisMatcha_ cukup tapi jgn naik whoosh PP, travel aja yg 100an	0	0	0	cukup jgn naik whoosh travel aja	neutral	0.766861617565155
+2025-11-17 08:05:01+00:00	103551225	"Mantan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam), Mahfud MD,  memberi pesan khusus untuk Menteri Keuangan, Purbaya Yudhi Sadewa.
+
+https://t.co/KJNVyVx4YN"	0	0	0	mantan menteri koordinator bidang politik hukum keamanan menko polhukam mahfud memberi pesan khusus menteri keuangan purbaya yudhi sadewa	neutral	0.7042875289916992
+2025-11-17 08:03:31+00:00	1475097258278354946	@casajoye iyaa plss mahal bgt buat bayar utang whoosh pasti	0	0	0	iyaa plss mahal bgt buat bayar utang whoosh	negative	0.6676570773124695
+2025-11-17 08:02:04+00:00	54161214	"Preman, asli!
+
+https://t.co/mVkMeeFjin"	0	0	0	preman asli	negative	0.6053492426872253
+2025-11-17 07:57:55+00:00	78189023	@zhil_arf padahal china juga seperti ini, bedanya, gak langsung kereta cepat, atau bandara megah, tetapi kereta perkotaan dulu, meskipun belum ada penduduk disiapin infranya	0	0	0	padahal china bedanya gak langsung kereta cepat bandara megah kereta perkotaan dulu meskipun penduduk disiapin infranya	neutral	0.5158249735832214
+2025-11-17 07:52:52+00:00	1729126337695338496	"Proses Hukum Tetap tidak ada Toleransi ansi ☺️
+
+Prabowo Tanggung Utang Whoosh Tak Bisa Stop Kasus, Mahfud: Dibayar Bukan Berarti Nggak Ada Korupsi https://t.co/avUuhWTdrZ"	0	0	0	proses hukum tetap toleransi ansi prabowo tanggung utang whoosh tak stop kasus mahfud dibayar bukan berarti korupsi	negative	0.5432248711585999
+2025-11-17 07:43:49+00:00	1317750858256240640	"@amyoramore @mohmahfudmd Kcic itu BUKAN BUMN, jd gk bs diklaim milik negara. Negara mana? China? Komut kcic WNA china, direksinya jg ada yg WNA China 🤣
+
+Milik negara mana? Kocak"	0	0	0	kcic bukan bumn diklaim milik negara negara mana china komut kcic wna china direksinya wna china milik negara mana kocak	negative	0.7975291013717651
+2025-11-17 07:38:29+00:00	1317750858256240640	"@amyoramore @mohmahfudmd Milik bumn. Cm buat paan? Kcic ruginya 7T th 2024. Th ini jg bakal rugi 5-6T
+
+🤣🤣🤣"	0	0	0	milik bumn buat paan kcic ruginya bakal rugi	negative	0.7177414894104004
+2025-11-17 07:33:09+00:00	1590569381985386496	@ardisatriawan Kalo benar, ga butuh whoosh donk? ^_^	0	0	0	kalo benar butuh whoosh donk	positive	0.46444249153137207
+2025-11-17 07:23:26+00:00	36321448	"@Darmaningtyas Bahkan kalopun Pemerintah ngga bangun kereta cepat, apa jalanan daerah otomatis mulus kalo Pemdanya lemot? Apa otomatis dana kereta cepat dari Chinanya ada? Dana awalnya kan ada karena buat kereta. 
+
+Bahkan MRT Jakarta, Trans Jakarta, kan inisiatif Gubernurnya."	0	0	0	bahkan kalopun pemerintah ngga bangun kereta cepat apa jalanan daerah otomatis mulus kalo pemdanya lemot apa otomatis dana kereta cepat chinanya dana awalnya kan buat kereta bahkan mrt jakarta trans jakarta kan inisiatif gubernurnya	negative	0.5989330410957336
+2025-11-17 07:12:49+00:00	1623966684754374662	Bos KAI Yakin Kereta Cepat Whoosh akan Sampai ke Banyuwangi https://t.co/s1zIBNAGfW	0	0	0	bos kai yakin kereta cepat whoosh banyuwangi	neutral	0.7171322107315063
+2025-11-17 07:11:55+00:00	155456716	"BUMN mana saja yang dimaksud? Apakah gara-gara utang Whoosh, BUMN ini bisa boncos? Lalu, bagaimana detail kerugiannya? #Ekonomi #AdadiKompas
+
+https://t.co/2jfLfJlq3U"	0	0	0	bumn mana dimaksud gara gara utang whoosh bumn boncos lalu bagaimana detail kerugiannya	negative	0.5911233425140381
+2025-11-17 07:03:58+00:00	1132550652591132673	"Whoosh ~ 
+*yg lain dah di depan awikwok https://t.co/lwgvC0diks"	34	0	1	whoosh dah depan awikwok	positive	0.5288721919059753
+2025-11-17 07:01:41+00:00	771030588	"BUMN mana saja yang dimaksud? Apakah gara-gara utang Whoosh, BUMN ini bisa boncos? Lalu, bagaimana detail kerugiannya? #Ekonomi #AdadiKompas  
+  
+https://t.co/nVkaK6Pcge"	0	0	0	bumn mana dimaksud gara gara utang whoosh bumn boncos lalu bagaimana detail kerugiannya	negative	0.5813948512077332
+2025-11-17 06:59:30+00:00	255866913	"BUMN mana saja yang dimaksud? Apakah gara-gara utang Whoosh, BUMN ini bisa boncos? Lalu, bagaimana detail kerugiannya? #Ekonomi #AdadiKompas
+
+https://t.co/tgEzHhvwpU"	1	1	0	bumn mana dimaksud gara gara utang whoosh bumn boncos lalu bagaimana detail kerugiannya	negative	0.5786172747612
+2025-11-17 06:56:57+00:00	794509735282102272	"Dari pada rencana memperpanjang Kereta Cepat WHOOSH.
+Pemerintah pusat dan Pemda sebaiknya memperhatikan sarana jalan raya yg parah seperti ini.
+-
+Dua pelajar SMA di Mahakam Ulu, Kalimantan Timur, terjatuh dijalan yg berlumpur &amp; berjuang menggapai cita-citanya utk masa depan.😓😓 https://t.co/ur35TUYTXt"	12	6	2	rencana memperpanjang kereta cepat whoosh pemerintah pusat pemda sebaiknya memperhatikan sarana jalan raya parah pelajar sma mahakam ulu kalimantan timur terjatuh dijalan berlumpur amp berjuang menggapai cita citanya utk masa depan	neutral	0.36822348833084106
+2025-11-17 06:54:47+00:00	1888150178336808960	@03__nakula Pindahkan whoosh aja kesana...	0	0	0	pindahkan whoosh aja kesana	neutral	0.47320589423179626
+2025-11-17 06:48:34+00:00	1159689173340585984	"Memulihkan nama baik Drs. Ir. Joko ""Whoosh""  Widodo, itu sama seperti;
+
+memaksa anak sulungnya yg adalah Wapres Fufufafa • bisa lolos seleksi masuk SMA Pradita Dirgantara yg berlokasi di komplek Bandara Adi Soemarmo • Boyolali Jateng, atau lolos seleksi masuk SMA Kolese De https://t.co/33DiDFR2Vh"	149	47	17	memulihkan nama baik drs joko whoosh widodo sama memaksa anak sulungnya wapres fufufafa lolos seleksi masuk sma pradita dirgantara berlokasi komplek bandara adi soemarmo boyolali jateng lolos seleksi masuk sma kolese	positive	0.5633465647697449
+2025-11-17 06:43:32+00:00	1450818985503571969	"*Gibran RI-2 dan Whoosh: Cermin Publik yang Menolak, tapi Tetap Membiarkan*
+ https://t.co/55IQyikRi6"	0	0	0	gibran whoosh cermin publik menolak tetap membiarkan	neutral	0.6429453492164612
+2025-11-17 06:36:30+00:00	938664737369341952	Bayar utang kereta cepat pakai APBN, tidak pakai dana dari BUMN krn banyak yg merugi. https://t.co/AgevtKLf0f	1	1	0	bayar utang kereta cepat pakai apbn pakai dana bumn krn banyak merugi	negative	0.6534481644630432
+2025-11-17 06:34:15+00:00	1284263730411212800	"@ilumeyis @Jawirgnat ""Ngebegal investor dari china""
+Ke
+""Industri game""
+Ke
+""Kereta cepat""
+😂😂"	0	0	1	ngebegal investor china industri game kereta cepat	neutral	0.5952770113945007
+2025-11-17 06:30:38+00:00	1750687792882147329	@tempodotco Tumben, angle berita gak menarik soal Whoosh bersaing dgn angkutan lain	0	0	0	tumben angle berita gak menarik soal whoosh bersaing dgn angkutan	negative	0.9061914682388306
+2025-11-17 06:25:51+00:00	1630426813317906436	"@imeeeemm @Madmen_wisdom @RezaUnscripted Tidak semua keputusan itu dari pusat.
+Ada baiknya sampah itu dikelola dan cara kelolanya oleh Pemkot/Pemkab.
+Kalau whoosh itu lintas kota dan provinsi, kewenangan harus dari pusat."	0	0	0	semua keputusan pusat baiknya sampah dikelola cara kelolanya pemkot pemkab kalau whoosh lintas kota provinsi kewenangan pusat	neutral	0.5373910665512085
+2025-11-17 06:21:55+00:00	1720665183188922368	@wahyukencono @tempodotco Menkeu Purbaya ngotot ikut negosiasi utang Whoosh karena ingin memastikan mekanisme pembayaran dibahas secara transparan dan komprehensif agar keuangan negara tidak rugi besar. Sebagai Menteri Keuangan, ia memiliki wewenang atas perjanjian hutang bernilai fantastis yang	0	0	0	menkeu purbaya ngotot ikut negosiasi utang whoosh memastikan mekanisme pembayaran dibahas transparan komprehensif keuangan negara rugi besar menteri keuangan memiliki wewenang atas perjanjian hutang bernilai fantastis	positive	0.4301479756832123
+2025-11-17 06:20:11+00:00	1237276167435997184	@randomable_ Apa kata Dunia Luar ???!  Punya Kereta Cepat, bisa bangun jln Tol ribuan km, tp masih ada jalan berlumpur...!?	0	0	0	apa kata dunia luar punya kereta cepat bangun jln tol ribuan jalan berlumpur	negative	0.5493916869163513
+2025-11-17 06:18:22+00:00	1720665183188922368	@wahyukencono @tempodotco Belum ada rencana menggunakan APBN untuk bayar utang Whoosh, karena Menkeu Purbaya tegas menolaknya agar keuangan negara tak terbebani. Ia prioritaskan restrukturisasi melalui negosiasi kreatif dengan China, dengan Danantara sebagai entitas utama penanggung. Keputusan akhir	0	0	1	rencana menggunakan apbn bayar utang whoosh menkeu purbaya tegas menolaknya keuangan negara tak terbebani prioritaskan restrukturisasi melalui negosiasi kreatif china danantara entitas utama penanggung keputusan akhir	neutral	0.4697181284427643
+2025-11-17 06:17:04+00:00	1720665183188922368	@wahyukencono @tempodotco Pernyataan Menkeu Purbaya Yudhi Sadewa itu disampaikan sekitar 11 November 2025, seperti dilaporkan CNBC Indonesia saat ia berharap ikut tim ke China untuk negosiasi utang Whoosh. Laporan https://t.co/qloLQt0VQt pada 15 November mengonfirmasi keinginannya agar keuangan negara tak	0	0	1	pernyataan menkeu purbaya yudhi sadewa disampaikan november dilaporkan cnbc indonesia berharap ikut tim china negosiasi utang whoosh laporan november mengonfirmasi keinginannya keuangan negara tak	neutral	0.6564317345619202
+2025-11-17 06:17:00+00:00	1408757958389878787	Itu dia bedah tuntas kita soal pembagian tugas Whoosh dan analisis logical fallacy di balik argumen finansialnya. Intinya, kita harus jeli dan nggak gampang ketipu framing data atau pengalihan isu yang ada. Semoga penjelasan ini nambah wawasan kamu ya! https://t.co/omizL0NtyS	0	0	1	bedah tuntas soal pembagian tugas whoosh analisis logical fallacy balik argumen finansialnya intinya jeli gampang ketipu framing data pengalihan isu semoga penjelasan nambah wawasan kamu	positive	0.4432922899723053
+2025-11-17 06:07:19+00:00	2862109627	@alexanderdrspan Hahaha mangkanya. Cikunir ampe Sadang mah mana kerasa itu. Ibarat mirip2 lah kek rencana kereta 1,5 jam Jakarta-Bandung. Inimah maksud hati jelekin Whoosh (walau Whoosh juga ga sedikit yang perlu dikritisi) tapi pinteran dikit ajalah. Keknya rada gamungkin aja. N berita besar2in	1	0	0	hahaha mangkanya cikunir ampe sadang mah mana kerasa ibarat mirip lah kek rencana kereta jam jakarta bandung inimah maksud hati jelekin whoosh whoosh sedikit perlu dikritisi pinteran dikit ajalah keknya rada gamungkin aja berita besar	negative	0.4516969621181488
+2025-11-17 06:07:01+00:00	1406678838629736449	"@BrownisMatcha_ Bisaaa
+Tapi ada beberapa yg di press.. kayak misalnya transportnya naik kreta aja, atau pulangnya naik travel. Jadi sisanya bisa buat hotel sama mam enak ✨
+Whoosh itu kan skitar 350-250."	0	0	0	bisaaa beberapa press kayak misalnya transportnya naik kreta aja pulangnya naik travel jadi sisanya buat hotel sama mam enak whoosh kan skitar	positive	0.5398157835006714
+2025-11-17 06:04:14+00:00	1580865404141940736	@randomable_ Mana kereta cepat?? Ayo dibangun disini, biar jadi loncatan teknologi, dr lumpur ke supersonik sekalian.	0	0	0	mana kereta cepat ayo dibangun disini biar jadi loncatan teknologi lumpur supersonik sekalian	neutral	0.43477895855903625
+2025-11-17 06:00:00+00:00	786549338818224128	"Lonjakan Rombongan Whoosh, KCIC Catat Kenaikan Hingga 100%
+
+PT KCIC mencatat peningkatan signifikan pada perjalanan rombongan Whoosh selama November 2025. Sejak dimulainya periode Promo Diskon Rombongan November yang menawarkan potongan hingga 20%, permintaan perjalanan rombongan https://t.co/V8Rs33ewCK"	0	0	0	lonjakan rombongan whoosh kcic catat kenaikan hingga kcic mencatat peningkatan signifikan perjalanan rombongan whoosh selama november sejak dimulainya periode promo diskon rombongan november menawarkan potongan hingga permintaan perjalanan rombongan	positive	0.6300106644630432
+2025-11-17 05:52:08+00:00	1708350454755999744	"@mmarleyt @Jumianto_RK Satu2 bagaimana klo masalahnya banyak? Salah sstunya
+1. Gratifikasi anak presiden kaesang privat jet
+2. Nepotisme kk ipar MK paman
+3. Whoosh
+4. IKN
+5. Ijasha palsu
+6. Kasus tambang blok medan bobby..
+Mau satu2??
+Mau berharap apa sama lembaga yg pemimpinya aja diangkat sama dia."	0	0	1	satu bagaimana klo masalahnya banyak salah sstunya gratifikasi anak presiden kaesang privat jet nepotisme ipar paman whoosh ikn ijasha palsu kasus tambang blok medan bobby mau satu mau berharap apa sama lembaga pemimpinya aja diangkat sama	negative	0.8608513474464417
+2025-11-17 05:45:31+00:00	1969782776380665856	@TobioKasep aaaaa semoga lancar whoosh selesai dan penyembuhannya juga cepeet. impaksi emang sesakit itu:””)	1	0	1	aaaaa semoga lancar whoosh selesai penyembuhannya cepeet impaksi emang sesakit	positive	0.4314400553703308
+2025-11-17 05:43:56+00:00	368674205	Di luar Jawa kondisi jalan seperti ini amat banyak, maka berdoasalah para pendukung pembangunan kereta cepat Jakarta - Bandung - Surabaya-Banyuwangi, karena Indonesia tidak hanya Jawa saja https://t.co/Fz3rxSorNu	0	0	1	luar jawa kondisi jalan banyak berdoasalah pendukung pembangunan kereta cepat jakarta bandung surabaya banyuwangi indonesia jawa	neutral	0.5201075673103333
+2025-11-17 05:42:52+00:00	844225029906747392	eh mual anjir after naik whoosh😭	0	0	0	mual anjir after naik whoosh	negative	0.8565369844436646
+2025-11-17 05:41:04+00:00	1829493866522963968	@randomable_ Liat tuh @prabowo jgn Jawa centris,miris Indonesia yg gemah ripah loh jinawi jalannya masih begitu. Mending dana kereta cepat buat bikin jalan ini	0	0	0	liat tuh jgn jawa centris miris indonesia gemah ripah loh jinawi jalannya mending dana kereta cepat buat bikin jalan	negative	0.5109719038009644
+2025-11-17 05:39:21+00:00	1433447210323116032	"@paperandsun @poetra_deny @bongchaebol @AldhitamaR @ajgjlzfvck @ErlingHaaland kan gwej dah bilang kak kalo grassfed very steril di biarin di jar baunya enak kek keju, which is increase in good bacteria
+
+knp kalo susu pasteurisasi dibiarin di jar jd bosok? karena lactoferrin nya angus mengusp whoosh
+
+kalo kek keju italy tuh cuman 40c, lactoferrin masih ada."	0	0	1	kan gwej dah bilang kak kalo grassfed very steril biarin jar baunya enak kek keju which increase good bacteria knp kalo susu pasteurisasi dibiarin jar bosok lactoferrin nya angus mengusp whoosh kalo kek keju italy tuh cuman lactoferrin	neutral	0.36881470680236816
+2025-11-17 05:36:47+00:00	25254938	"@tempodotco Kemarin katanya ga mau ikut ikutan
+https://t.co/Iwa35XNFYx"	0	0	2	kemarin katanya mau ikut ikutan	neutral	0.5687395930290222
+2025-11-17 05:33:56+00:00	1816136322496749575	"@randomable_ Hasil kerja 2 periode sikowi 
+Coba klo dana 100T whoosh dipakai perbaiki jalan di daerah yg diperlukan ribuan bahkan jutaan anak sekolah org sakit ke rumah sakit..kira2 dpt brp ribu km jalan?
+Whooss hny dinikmati oleh secuil rakyat tp smua rakyat Indonesia ikut menanggung hutang"	0	0	1	hasil kerja periode sikowi coba klo dana whoosh dipakai perbaiki jalan daerah diperlukan ribuan bahkan jutaan anak sekolah org sakit rumah sakit kira dpt brp ribu jalan whooss hny dinikmati secuil rakyat smua rakyat indonesia ikut menanggung hutang	negative	0.4753139019012451
+2025-11-17 05:28:39+00:00	1629530059265703938	"@SenopatiDiAnno Whoosh untungkan Cina saja, RI buntung karena korupsi Jkw. Kalau gak dikorupsi ada gambaran?
+#AdiliJokowiGibran 
+#AdiliJokowiGibran"	13	7	0	whoosh untungkan cina buntung korupsi jkw kalau gak dikorupsi gambaran	negative	0.7578921318054199
+2025-11-17 05:22:08+00:00	1317750858256240640	"@4213f3 @cutsarina5 @prabowo @AskPerplexity Ya itu NGACO. Public Service itu gk selalu WAJIB
+
+Mnrt UU kereta no 23 th 2007 yg WAJIB itu cm 
+1. Kereta ekonomi jrk jauh
+2. KRL komuter
+
+Whoosh itu kyk pswt, makanya pakai skema bisnis B2B, gk pakai apbn
+
+🤣"	0	0	1	ngaco public service selalu wajib mnrt kereta wajib kereta ekonomi jrk jauh krl komuter whoosh kyk pswt makanya pakai skema bisnis pakai apbn	negative	0.48773789405822754
+2025-11-17 05:20:35+00:00	1770632076343361537	rutinitas tiap anterin bapakku cuti: mengantar/menjemput di stasiun whoosh https://t.co/HrT5RwbTnT	0	0	0	rutinitas tiap anterin bapakku cuti mengantar menjemput stasiun whoosh	neutral	0.6976128816604614
+2025-11-17 05:18:48+00:00	1408757958389878787	‼️ Ettttt, kita nggak boleh langsung percaya sama pernyataan soal utang Whoosh cuma karena terdengar meyakinkan. Soalnya ada beberapa jebakan logika alias logical fallacy yang bisa bikin kita salah tangkap. ‼️	0	0	1	ettttt langsung percaya sama pernyataan soal utang whoosh cuma terdengar meyakinkan soalnya beberapa jebakan logika alias logical fallacy bikin salah tangkap	negative	0.780833899974823
+2025-11-17 05:14:06+00:00	1408757958389878787	Biar nggak gampang kejebak narasi soal utang Whoosh, yuk kenalan dulu sama apa itu logical fallacy dan masalah nya 👇‼️ https://t.co/W621EXFXBq	0	0	1	biar gampang kejebak narasi soal utang whoosh yuk kenalan dulu sama apa logical fallacy masalah nya	neutral	0.6553806662559509
+2025-11-17 05:02:05+00:00	1583722478358052864	@PngAdilnR4kyt Isu Whoosh menuntut transparansi penuh. Kebijakan yang keliru harus dipertanggungjawabkan agar publik tidak terus menanggung beban. Ini bukan serangan politik ini soal integritas negara dan keberanian mengoreksi kesalahan demi masa depan bangsa.	0	0	0	isu whoosh menuntut transparansi penuh kebijakan keliru dipertanggungjawabkan publik terus menanggung beban bukan serangan politik soal integritas negara keberanian mengoreksi kesalahan masa depan bangsa	negative	0.579740047454834
+2025-11-17 05:00:37+00:00	1831597288755752960	@mulanbilqis Sabar ya adek2, jalan blm bisa diperbaiki, uangnya dipake bayar hutang WHOOSH selama 60 tahun.😔😔😔😔	2	1	0	sabar adek jalan blm diperbaiki uangnya dipake bayar hutang whoosh selama tahun	negative	0.7664547562599182
+2025-11-17 05:00:01+00:00	18129942	Menkeu Purbaya Yudhi Sadewa meminta dilibatkan dalam negosiasi utang Whoosh agar keuangan negara tidak rugi besar. https://t.co/uRbVFNsmHj	326	54	12	menkeu purbaya yudhi sadewa meminta dilibatkan negosiasi utang whoosh keuangan negara rugi besar	neutral	0.5573952794075012
+2025-11-17 04:50:24+00:00	1555488754089197568	"@RikeSants Tapi sprt biasa Luhut mlh blng whoosh sdh bisa menutup biaya operasionalnya. 😂
+Mklm brsm JKW adlh penggagas sklgs bos whoosh. https://t.co/l4TOCKphnh"	0	0	1	sprt biasa luhut mlh blng whoosh sdh menutup biaya operasionalnya mklm brsm jkw adlh penggagas sklgs bos whoosh	negative	0.40039336681365967
+2025-11-17 04:49:06+00:00	1639335104	@bestinformm Memang Rakyat tidak meminta kereta cepat Whoosh kereta PARAHIANGAN saja sudah bagus ko lebih ekonomis dan prestisius. Negara harus tau diri, Whoosh itu proyek yg dipaksakan karena ambisius Jokowi.	1	0	0	memang rakyat meminta kereta cepat whoosh kereta parahiangan bagus lebih ekonomis prestisius negara tau diri whoosh proyek dipaksakan ambisius jokowi	positive	0.5787596702575684
+2025-11-17 04:47:32+00:00	1630749805734678529	"GEGER...
+
+UBEDILLA BADRUN, PRABOWO HARUS DI TEGUR KERAS...
+
+ATAS NAMA RAKYAT INDONESIA SKANDAL KERETA CEPAT WHOOSH PINTU MASUK BONGKAR KORUPSI JOKOWI....‼️
+
+#AdiliJokowiGibran
+#AdiliJokowiGibran
+🆘🆗 https://t.co/bbYluU4N33"	68	40	3	geger ubedilla badrun prabowo tegur keras atas nama rakyat indonesia skandal kereta cepat whoosh pintu masuk bongkar korupsi jokowi	negative	0.6092147827148438
+2025-11-17 04:42:28+00:00	1862864263305650176	@matchaapop biar naik whoosh whoosh wkwk	0	0	0	biar naik whoosh whoosh wkwk	neutral	0.4639219641685486
+2025-11-17 04:38:28+00:00	171136307	@KAI121 @DOitSOOner93 Bilang aj- jujur buat nutupin Whoosh wkwkwkwk pake muter2	0	0	0	bilang jujur buat nutupin whoosh wkwkwkwk pake muter	neutral	0.5096757411956787
+2025-11-17 04:30:33+00:00	1245574057665298433	@BrownisMatcha_ 1,2 juta cukup cari aja hotel yg 100k semalam dan PP naik travel kalau stay di hotel bintang 4 dan naik whoosh ga akan cukup nder	1	0	0	juta cukup cari aja hotel semalam naik travel kalau stay hotel bintang naik whoosh cukup nder	neutral	0.5798109769821167
+2025-11-17 04:28:55+00:00	1245574057665298433	@BrownisMatcha_ @langstonbeckham Cukup nder di luar payment hotel dan tiket whoosh or travel	0	0	0	cukup nder luar payment hotel tiket whoosh travel	neutral	0.8113654851913452
+2025-11-17 04:21:00+00:00	1749973810726772736	"@bestinformm @bestinformm 
+@mohmahfudmd
+
+@PurbayaYudhi 
+Genjot Terus 
+Agar 
+Cepat 
+Rampung &amp; Selesai 
+Jalan Tol 
+Jakarta - Bandung.
+
+Maka 
+Kreta Cepat 
+KCIC / Whoosh 
+
+Segera 
+Di Kembali Kan 
+Ke : China.
+
+Seperti : 
+Rencana 
+Kreta Tanpa Rel Di IKN 
+( Mobil / Lori )  
+Di Balik Kan 
+Ke : China https://t.co/HB7Yjqb1Vg"	0	0	0	genjot terus cepat rampung amp selesai jalan tol jakarta bandung kreta cepat kcic whoosh segera kan china rencana kreta rel ikn mobil lori balik kan china	neutral	0.49561700224876404
+2025-11-17 04:16:15+00:00	1591803103333883904	"@DedynurPalakka Ini logika yang SESAT
+Bangun IKN yg katanya investor oversubscribed, pamer
+Nepotisme anaknya jadi wapres, pamer
+Bangun kereta cepat whoosh katanya investasi, pamer
+
+Giliran dimintain kasih liat ijazah malah ngumpet
+
+Mullllll termullllll jilat trosss tuh kontol"	0	0	0	logika sesat bangun ikn katanya investor oversubscribed pamer nepotisme anaknya jadi wapres pamer bangun kereta cepat whoosh katanya investasi pamer giliran dimintain kasih liat ijazah malah ngumpet mullllll termullllll jilat trosss tuh kontol	negative	0.8598982095718384
+2025-11-17 04:08:58+00:00	987590093346091008	@vaniepink Bagus tuh , nanti makin banyak KCIC dan IKN 🤣🤣	0	0	0	bagus tuh makin banyak kcic ikn	positive	0.7322298884391785
+2025-11-17 04:08:14+00:00	1112580604682342400	@telyufess Gocar mau ngambil kok nder, aku udah sering bolak-balik Jakarta-Bandung pake whoosh dan alhamdulillah selalu ada driver yang mau ngambil orderan nya	0	0	0	gocar mau ngambil kok nder aku udah sering bolak balik jakarta bandung pake whoosh alhamdulillah selalu driver mau ngambil orderan nya	positive	0.5794188976287842
+2025-11-17 04:03:29+00:00	267097201	@hbbhbtllh @KAI121 @soupgalantine Buat bayar utang whoosh, sama ngasih bonus akhir tahun buat direksi ama komisaris	0	0	0	buat bayar utang whoosh sama ngasih bonus akhir tahun buat direksi ama komisaris	neutral	0.5187893509864807
+2025-11-17 04:02:12+00:00	1884976589039190016	"Ada yang kecewa nih kayaknya 
+
+ ""Soal Utang Whoosh, Purbaya Ikut Arahan Presiden"" https://t.co/hbL1w0K7Ni"	10	2	2	kecewa nih kayaknya soal utang whoosh purbaya ikut arahan presiden	negative	0.8334140181541443
