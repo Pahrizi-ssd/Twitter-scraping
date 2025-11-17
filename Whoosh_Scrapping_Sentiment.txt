@@ -1,0 +1,228 @@
+date	author_id	text	sentiment	confidence
+2025-11-17 14:51:13+00:00	1278691354466381825	@randomable_ Gpp jalanan kek gitu, yg penting utang whoosh kebayar dan IKN jalan teruuusss...	positive	0.5489839911460876
+2025-11-17 14:44:23+00:00	1655848158457638912	@arumanjani_ Mng ap yg d tinggalkan Jokowi? Tol? Bkn apbn yg bngun tol. Bandara? Kertajati mati tuh, whoosh? Ngutang dn d korup pulak. IKN? Mangkrak ngk jelas! UU? Mn yg bela rakyat? Yg d tinggal Jokowi, anaknya dg ijasah ngk jelas, koruptor yg gilani, gaduh krn ijasahnya palsu. Msh d bela?😣	negative	0.8738663792610168
+2025-11-17 14:38:06+00:00	40486186	Libur nataru nanti belanja domestik di gerakan oleh UMKM, jasamarga 😂 udah itu doang - kalo kalian denger pemerintah kasi insentif, subsidi itu istilah yg maksa taik kucing wangi | tiket Garuda , KAI whoosh naik pasti 🤣	negative	0.6056759357452393
+2025-11-17 14:36:03+00:00	453931027	"https://t.co/5uMGQJh4IW
+
+Apakah pak PYS penganut ideologi SUDAH TAPI BELUM juga?"	neutral	0.5775539875030518
+2025-11-17 14:31:35+00:00	1428004543988523012	Omon2. Hutang whoosh saja masih dicicil. Mau hutang ke china lagi? https://t.co/tHruQa6nzC	negative	0.6733983159065247
+2025-11-17 14:29:30+00:00	3580227492	"Rakyat dungu dan tidak peduli, adalah kesenangan dari penguasa yang zalim dan rakus.
+Salam Whoosh Jakarta - Bandung https://t.co/n6A3fAGkvS"	negative	0.8617867231369019
+2025-11-17 14:07:36+00:00	1859723872070979584	KPK Ungkap Modus Jual Beli Tanah Negara di Proyek Kereta Cepat Whoosh https://t.co/65aqSmnaRi via @Asatunews https://t.co/hDT1HNc13b	neutral	0.851612389087677
+2025-11-17 14:06:11+00:00	1688328064357564417	"Dirut KCIC soal Utang Whoosh: Kita Serahkan ke Danantara 
+#beritaretkini 
+https://t.co/doumfMYPBA"	neutral	0.7894652485847473
+2025-11-17 14:02:26+00:00	1454008204027854853	"Pejabat Negara Jual Tanah Negara   Enak Tenan Korupsi 
+Proyek Whoosh  ?
+
+""Periksa Sejumlah Saksi, KPK Dalami Dugaan Korupsi Lahan Kereta Cepat Whoosh"" https://t.co/L92EFYNB5m"	neutral	0.5825514197349548
+2025-11-17 13:56:39+00:00	38915157	Restrukturisasi Utang Kereta Cepat Whoosh Diserahkan KCIC ke Danantara https://t.co/8aWxhjqXzA	neutral	0.8263760209083557
+2025-11-17 13:54:34+00:00	1466815910518263808	Restrukturisasi Utang Kereta Cepat Whoosh: KCIC Serahkan Keputusan ke Danantara https://t.co/Nqo75NGBKt	neutral	0.7958552241325378
+2025-11-17 13:50:50+00:00	1798339732608589824	travel aja ah daripada whoosh	neutral	0.4062460958957672
+2025-11-17 13:50:00+00:00	4187275698	"KCIC Serahkan Skema Restrukturisasi Utang Whoosh ke Danantara 
+
+https://t.co/1udVbG2ptX"	neutral	0.8507605791091919
+2025-11-17 13:49:41+00:00	742417862	@randomable_ Org di pemerintahan emg gada yg mikirin buat benerin akses jalan di daerah yg kek gini apa. Daripada bikin whoosh mending benerin jalan noh yg jelas2 kerasa manfaatnya sama semua warga biar ga cuma ‘dipusat’ doang yg dibangun mulu	negative	0.6855263113975525
+2025-11-17 13:47:34+00:00	1719012304120082432	@randomable_ Karena kereta cepat woosh lebihh penting ya gengsss..	positive	0.5110703110694885
+2025-11-17 13:41:08+00:00	1457962786948988930	@hildoingwell Angkat beban utang whoosh bisa g	neutral	0.5547145009040833
+2025-11-17 13:39:50+00:00	1466815910518263808	KPK Usut Dugaan Korupsi Lahan Proyek Kereta Cepat Whoosh: Modus dan Fakta Terbaru https://t.co/c4ezQYR9kl	neutral	0.5263840556144714
+2025-11-17 13:39:40+00:00	1712461591910989824	"KPK Ungkap Modus Korupsi Whoosh: Tanah Punya Negara Dibeli Lagi Oleh Negara
+
+Klik untuk baca: https://t.co/rbamZaLlsM"	neutral	0.5641258955001831
+2025-11-17 13:26:36+00:00	3319260420	"Dirut KCIC soal Utang Whoosh: Kita Serahkan ke Danantara
+https://t.co/tYROD9aZxC"	neutral	0.8455386757850647
+2025-11-17 13:26:13+00:00	1665235202770370560	@DS_yantie Tidak akan mau. Dia sadar butuh kontroversi untuk menutupi kasus kereta cepat dan IKN	negative	0.7280033826828003
+2025-11-17 13:25:11+00:00	24893875	"@afannni @Strategi_Bisnis hhehe.... mestinya kalau buat analisa, gunakan data yang benar. Cari dulu data sahihnya. Bukan data2 di medsos.
+
+Utang proyek KCIC itu sudah pernah sy jelaskan, bukan Rp116T lebih, hanya sekitar Rp54T. Bisa cari di twit saya soal ini."	neutral	0.5434197187423706
+2025-11-17 13:22:58+00:00	516165629	@ichannasution Selamat malam Kak. Mohon maaf mengenai pengecekan dan info update seputar perjalanan KA Whoosh, silakan dapat konfirmasi ke layanan pelanggan Kereta Cepat di Call Center: 150909, Whatsapp: 0811-8888-111 (hanya teks), Email: cs@kcic.co.id dan Instagram: @keretacepat_id dengan	neutral	0.8614522814750671
+2025-11-17 13:22:38+00:00	1184500498738495488	@Galihholic_87 @Zeefire02 Eh termul brengsek keluarin foto aseli lo sialan biar terpampang wajah tolol lo anjing. Sama sekalian bayar hutang Whoosh anjing.	negative	0.8727781176567078
+2025-11-17 13:22:09+00:00	54114263	@Strategi_Bisnis ada yg bikin tulisan 5 skenario kebangkrutan kereta cepat whoosh nih om @ferrykoto	neutral	0.4481777846813202
+2025-11-17 13:21:52+00:00	482640378	@bagindo_kopi Kalau di pikir persis kita buat kereta cepat dari hutang ,kalau tidak kuat bayar cicilan ,bisa banyak aset negara tergadai , ingat srilanka.	negative	0.5443421006202698
+2025-11-17 13:15:00+00:00	1243804423001763841	"Bengkak Anggaran Kereta Cepat Whoosh Tembus 22 Persen, Menteri BUMN Era Megawati: Sangat Tak Wajar!
+https://t.co/EB34Sqa1H0"	negative	0.867222785949707
+2025-11-17 13:13:10+00:00	36303825	Min @KAI121 , beneran nih tiket Whoosh awal Desember rute Halim - Padalarang &amp; sebaliknya udh habis semua? Atau ini aplikasinya lg error? 😞	negative	0.6769367456436157
+2025-11-17 13:11:27+00:00	1673146197752827905	"@pieteriskandar0 @awikuchuz Bosen dengerin Indosat terus yg dibicarakan
+Padahal Whoosh nilai korupsinya besar sekali
+Tidak ada keuntungan yg diambil Bu Mega sebagai konsekuensi penjualan Indosat
+Dan katanya ada yg mau buyback Indosat realisasinya ga ada"	negative	0.9015148282051086
+2025-11-17 13:10:32+00:00	46693036	"Anthony menilai penyamaan kedua proyek itu misleading.
+
+Ia bahkan mempertanyakan apakah kekeliruan tersebut sengaja dibuat untuk mendiskreditkan para pengkritik proyek Whoosh—termasuk yang mendorong penyelidikan hukum dugaan mark-up dan korupsi.
+
+“Atau memang ada tujuan atau"	negative	0.8478052020072937
+2025-11-17 13:10:31+00:00	46693036	"Anthony menilai perbandingan tersebut keliru dan menyesatkan.
+
+Tiga Alasan Utama Anthony
+
+🔹 1. Teknologi Berbeda Jauh
+“Maglev itu melayang dan jauh lebih kompleks daripada Whoosh yang masih berbasis roda. Jadi, nothing to compare.”
+
+🔹 2. Kecepatan Tidak Setara
+Maglev: 500–600 https://t.co/tSkSZzmRqJ"	negative	0.6377910375595093
+2025-11-17 13:10:29+00:00	46693036	"Perbandingan Kereta Whoosh vs Maglev Jepang Dipersoalkan Ekonom PEPS
+
+Ekonom senior Political Economy and Policy Studies (PEPS), Anthony Budiawan, menanggapi tulisan mantan Menteri BUMN Laksamana Sukardi berjudul “Debat Kusir Whoosh” yang membandingkan biaya proyek Kereta Whoosh https://t.co/CtEejHs4yn"	neutral	0.7614885568618774
+2025-11-17 13:02:37+00:00	1759245053225295872	"*Gibran RI-2 dan Whoosh: Cermin Publik yang Menolak, tapi Tetap Membiarkan* 
+
+https://t.co/MAzKNSMi2Z"	neutral	0.6567047238349915
+2025-11-17 13:02:24+00:00	1553045359990960128	@SammiSoh Whoosh khusus buat mereka yg mau liburan ke bandung .	neutral	0.6563985347747803
+2025-11-17 13:00:33+00:00	1605930988638703617	@Gerindra Ohh kirain buat bayar hutang Whoosh😂	neutral	0.5002319812774658
+2025-11-17 12:58:58+00:00	1125374325723238400	@AiraNtiePuspa Bener banget kak, sia sia bikin whoosh dan bangun IKN sementara jalan masih sprti ini	negative	0.5085680484771729
+2025-11-17 12:55:14+00:00	1572061052220899331	semoga lrt/mrt ada diseluruh kota (minimal seluruh daerah jkt dulu)… terus kcic pls bgt kalo jadi sampe banyuwangi pls lewatin jogja 😆 bandara yia jauh ah magerr	negative	0.49313807487487793
+2025-11-17 12:52:53+00:00	1846542536602697728	"@antaranews Tak ada yg tau apa yg terjadi esok ,bulan depan ,tahun depan ..
+2029 masih jauh ..
+Sudah bicara pilpres (kemenangan /terpilih kembali😀?) ..
+
+Baik pikir dr mana uang buat bayar utang Whoosh 116 T,warisan Jokosolo 🙃?
+
+Benar uang dr Koruptor ??
+
+Itu lbh realistis di bahas !!!"	neutral	0.4978655278682709
+2025-11-17 12:50:55+00:00	23343960	"Juru Bicara KPK Budi Prasetyo menyatakan bahwa modus kasus ini masih dalam penyelidikan. Namun, diduga negara membeli kembali tanah yang dijual yang dipelukan untuk pembangunan proyek ini.
+
+👉🏻Baca selengkapnya https://t.co/KTjx0kn33b
+
+~AM #Whoosh #KPK #Korupsi https://t.co/KMgLrFFpAR"	neutral	0.5263627171516418
+2025-11-17 12:48:27+00:00	1515689815	gila negara korupsi indonesia (nkri) ini 😡 https://t.co/cmQxRpSV3Q	negative	0.9173022508621216
+2025-11-17 12:46:44+00:00	1641028826489823232	"Bos KCIC Temui Airlangga, Restrukturisasi Utang Whoosh Diserahkan ke Danantara
+
+https://t.co/02tPOtejG2
+
+#Bandung #Danantara #Jakarta #KCIC #bitvonline"	neutral	0.7762488722801208
+2025-11-17 12:36:39+00:00	1686913797473402880	@mantabcoo @6_arung @TheThanos_100 Percayalah biaya kontruksi sudah setara kereta cepat, muke gila harus banyak bikin terowongan dan jembatan hanya untuk kereta biasa 🗿.	negative	0.6001138687133789
+2025-11-17 12:35:00+00:00	69183155	KPK mengungkap penyelidikan dugaan korupsi dalam proyek kereta cepat Jakarta-Bandung. Sejumlah saksi telah diperiksa terkait pengadaan lahan. https://t.co/RkRdSIIIbw	neutral	0.6130316257476807
+2025-11-17 12:33:57+00:00	3032152165	kereta cepat. Ingat jangan bayar hutang whoosh pakai apbn!! https://t.co/FIf6mveQV3	neutral	0.6506625413894653
+2025-11-17 12:32:29+00:00	3032152165	nasehat yg baik dan bijak dari bawahannya  dan masyarakat indonesia. Whoosh adalah keinginan jokowi bukan keinginan rakyat, rakyat masih upah umr saja, gaya2an pingin punya whoosh!!  Makmurkan dulu rakyatnya,supaya upahnya bisa lebih dari umr sehingga setiap orang bisa beli tiket	positive	0.4951217472553253
+2025-11-17 12:29:58+00:00	1281158585267834880	Penerjemah kcic https://t.co/BjnanzeRrf	neutral	0.8941768407821655
+2025-11-17 12:28:31+00:00	1947708642473742336	haduh ga sabar libur rasanya kaki aku ingin jalan mengarah ke whoosh mulu😊😊✌🏻✌🏻	positive	0.5670976042747498
+2025-11-17 12:28:31+00:00	3032152165	"Dengan kondisi whoosh yg terus merugi seperti sekarang ink, Jepang merasa beruntung tidak dipilih. Lihat saja penumpang whoosh hanya 1/3 dari target. Senentara biaya operasional 1,3 kali lebih mahal. 
+
+Manusia keras kepala 👇 yg tidak mau mendengar 
+
+https://t.co/OAouQSHt63"	negative	0.8993551135063171
+2025-11-17 12:28:00+00:00	1243804423001763841	"TPDI Sebut Penyelidikan Korupsi Proyek Kereta Cepat Whoosh Diduga untuk Lindungi Jokowi
+https://t.co/4XYdphK97o"	neutral	0.5537280440330505
+2025-11-17 12:23:00+00:00	398798880	@CheGueva12345 Di SS aja, ntar kalau whoosh sukses kasih ss an twit nya😂...	neutral	0.4647580683231354
+2025-11-17 12:16:05+00:00	3032152165	"Nah lho!! Whoosh dibahas di jepang. 
+🙄🫢😱🤔🙊 https://t.co/HpGRCAAaaU"	neutral	0.4207594394683838
+2025-11-17 12:14:28+00:00	1428002673815482369	"The real WHOOSH 🫣
+Lengah dikit auto nyungsep
+Jalanan yg semestinya bisa dibenahi dg anggaran WHOOSH https://t.co/jlJvgb7Qpj"	neutral	0.3522295653820038
+2025-11-17 12:13:55+00:00	3319626708	@KAI121 ini seriusan tiket sby jkt semahal ini? Peak season tahun lalu keknya masih normal deh, ga sampe segini harganya, buat bayar hutang whoosh kah?	negative	0.6639630794525146
+2025-11-17 12:10:27+00:00	1686913797473402880	@gan_deden @PRFMnews Kereta cepat sekarang saja dari segmen Karawang sampai Tegal Luar saja banyak bikin jembatan dan terowongan yang rata² panjang, belum berurusan dengan kondisi geologi alam.	neutral	0.5780224800109863
+2025-11-17 12:06:42+00:00	535307322	Apa seperti KCIC ini biayanya membengkak jauh dari dana awal https://t.co/qizayOw8tf	negative	0.6864043474197388
+2025-11-17 12:03:17+00:00	30201110	Penyelidikan Korupsi Proyek Kereta Cepat Whoosh Diduga untuk Lindungi Jokowi https://t.co/KeUGbLjdoQ	neutral	0.6350295543670654
+2025-11-17 11:53:37+00:00	1787788662295683072	"Whoosh bukan cuma bikin negara boncos, tapi jg membebani BUMN WIKA. Dirut WIKA mengungkap perusahaan masih menanggung rugi lebih dari Rp 6,1 triliun akibat keterlibatannya di proyek itu.
+.
+.
+.
+.
+Operasi Zebra 2025 Senin Apel Pagi Polda Jawa Tengah wakil Indonesia Cerdas. https://t.co/vl829qsOIW"	negative	0.8532480001449585
+2025-11-17 11:47:52+00:00	1911101964987019264	"# cek sekarang ada informasi penting
+
+Kata Purbaya soal Skema Utang Whoosh: Kalau Saya Mending Gak Bayar https://t.co/aPrUFLWQNX"	neutral	0.8568079471588135
+2025-11-17 11:46:44+00:00	368674205	Memang Dana Desa cukup untuk membangun infrastruktur transportasi? Penggunaan Dana Desa kan udah ada aturannya, untuk apa saja. Di Jawa juga ada pemimpinnya (Gubernur/Bupati/Walikota), kalau gitu tdk perlu campur tangan pusat dong bangun kereta cepat https://t.co/TcApD7tPyS	neutral	0.5213675498962402
+2025-11-17 11:46:41+00:00	1630070084449497088	@flowvva bayarin tiket whoosh tapiii  🥺🫶🏻	neutral	0.463478147983551
+2025-11-17 11:44:15+00:00	368674205	Tidak bangun kereta ce[at saja jalanan luar Jawa buruk, apalagi bangun kereta cepat Bandung - Surabaya - Banyuwangi, jalanan di luar Jawa makin tidak diperhatiin krn APBN sektor transportasi habis untuk mensubsidi kereta cepat. INDONESIA BUKAN HANYA JAWA, itu yg terpenting https://t.co/EsI1r80sKk	negative	0.9216804504394531
+2025-11-17 11:39:35+00:00	1502113976775106569	"@ARSIPAJA Cepat2 ujungnya keracunan
+Cepat2 ujungnya beban apbn: ikn, whoosh
+Makanya riset dulu wok, makanya knp gw pilih politisi dgn latar belakang akademisi
+Biar gak bikin kebijakan seenak jidat"	negative	0.7881039381027222
+2025-11-17 11:33:02+00:00	4408529773	Nif lu ketinggalan whoosh ya https://t.co/NLem3h6W3H	negative	0.5953153967857361
+2025-11-17 11:26:20+00:00	1588842390324137984	"@AiraNtiePuspa Semoga kebenaran bisa menang.
+Sehingga negara tak perlu membiayai kehidupan Jokowi,dan hutang bisnis Whoosh bisa di tanggung secara pribadi oleh Jokowi."	neutral	0.4148324728012085
+2025-11-17 11:12:57+00:00	169445636	"Melihat Stasiun Shenzhenbei (Shenzhen North) buat naik kereta cepat pulang dari Shenzhen ke Hong Kong
+
+Melihat skala stasiun kereta cepat di China yang sebesar ini sebenernya menunjukkan stasiun Halim sebetulnya untuk standar Tiongkok itu gak besar-besar amat 😅 https://t.co/5H15AUMpKG"	positive	0.511031985282898
+2025-11-17 11:08:28+00:00	169445636	"Melihat Stasiun Shenzhenbei (Shenzhen North) buat naik kereta cepat pulang dari Shenzhen ke Hong Kong
+
+Melihat skala stasiun kereta cepat di China yang sebesar ini sebenernya menunjukkan stasiun Halim sebetulnya untuk standar Tiongkok itu gak besar-besar amat 😅 https://t.co/sx1a0q5ljO"	positive	0.47324514389038086
+2025-11-17 11:06:16+00:00	1129372831744053249	"@RikeSants Nyesek banget buat dijadiin bahan pembelajaran negara2 di asia.
+""Kalo mau bikin kereta cepat pikirkan baik2 jangan sampe kejadian kaya indonesia""."	negative	0.925945520401001
+2025-11-17 11:02:00+00:00	1471835353019387904	"KCIC II - 19. Menggoda Pegawai Gudang
+https://t.co/NmvLTSY8mf
+
+Ideku untuk menggoda pegawai di sebuah gudang di dekat kosan yang begitu menarik bagiku. Berdasarkan saran dari internet kini aku lakukan.
+Dan ternyata, semua terbukti benar, tepat, akurat!
+
+https://t.co/pzoLHEaWic https://t.co/M9ZjrduPif"	positive	0.7315508127212524
+2025-11-17 11:00:47+00:00	135795460	Makin Banyak yang Naik KA Parahyangan Meski Sudah Ada Kereta Cepat https://t.co/GaUdqZqeNJ	neutral	0.7063778042793274
+2025-11-17 10:56:18+00:00	4755284968	"Mantan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menegaskan bahwa negara harus tetap membayar utang proyek kereta cepat Jakarta-Bandung atau Whoosh .
+
+Hal ini dikarenakan transaksi proyek Whoosh dilaksanakan sesuai aturan undang-undang. https://t.co/6QqIcuNc8v"	neutral	0.7067273855209351
+2025-11-17 10:55:14+00:00	4755284968	"Mantan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam) Mahfud MD menegaskan bahwa negara harus tetap membayar utang proyek kereta cepat Jakarta-Bandung atau Whoosh .
+
+Hal ini dikarenakan transaksi proyek Whoosh dilaksanakan sesuai aturan undang-undang. https://t.co/PUKsfaCC3V"	neutral	0.7131726741790771
+2025-11-17 10:53:02+00:00	1660693008596213760	"@RikeSants NGAWUR. 
+Jepang iri, negara2 lain di Asia Tenggara pilih China, setelah WHOOSH jadi."	negative	0.9287744164466858
+2025-11-17 10:38:23+00:00	18129942	"Baca artikel ini dan share pendapat kalian di kolom komentar!
+https://t.co/vJvSbng4TR"	neutral	0.7594735026359558
+2025-11-17 10:23:41+00:00	2683801656	Kereta cepat apa Jalan di pelosok negeri https://t.co/oV9FaTMGkZ	neutral	0.8413201570510864
+2025-11-17 10:23:08+00:00	1422404851481280518	"- KPK Selidiki Pembebasan Lahan Proyek Kereta Cepat Whoosh
+baca selengkapnya di https://t.co/gysvbvBZ4U https://t.co/ahPi2t2txw"	neutral	0.8152786493301392
+2025-11-17 10:12:27+00:00	162627606	@iwanfals Buat bayar bunga whoosh aja	neutral	0.5947093963623047
+2025-11-17 10:03:05+00:00	1349767675174535168	"@DedynurPalakka Bagaimana dengan data bahwa Whoosh itu rugi sekian triliun??!
+Data sahih kan itu...
+Siapa inisiasi nya?! Bisa diseret kan??! 
+
+Jokowisme adalah sesat.
+Tidak ada ajaran itu, aliran itu.
+Bahkan dianggap setara Nabi.
+
+Moral macam apa itu, belum mbahas kejadian di MK klo soal moral"	negative	0.8511952757835388
+2025-11-17 09:47:28+00:00	1885555382514507776	KAI optimistis dapat menjalankan instruksi Presiden Prabowo untuk memperpanjang rute kereta cepat hingga Banyuwangi. Dirut KAI Bobby Rasyidin menyebut okupansi Whoosh terus naik dan operasional stabil. Pemerintah masih menyiapkan skema penyelesaian utang KCIC, sementara negosiasi https://t.co/DGgWRHTaoF	positive	0.70307457447052
+2025-11-17 09:47:09+00:00	2837811799	Bawa bawa whoosh yg emang lagi gak ada hubungannya samsek dengan whoosh gw mute, karna Highlight lo jadinya ngomongin whoosh...	negative	0.637232780456543
+2025-11-17 09:44:06+00:00	4200694752	"Untuk menyeret Jokowi dlm kasus Whoosh, KPK tunggu lampu hijau dari Prabowo. Untuk eksekusi Silfester, Kejaksaan tunggu lampu hijau dari siapa??
+
+Institusi Termul menyebabkan rusaknya tatanan hukum Indonesia. https://t.co/aCkQA56R6Z"	negative	0.8636030554771423
+2025-11-17 09:41:44+00:00	1609925940599214086	"Menolak lupa: 
+kcic tidak gunakan apbn, tidak ada jaminan dari pemerintah https://t.co/UEsQCOSUF7"	neutral	0.6686630249023438
+2025-11-17 09:41:25+00:00	1114186502672502784	Merch tergokil, tdnya mau ganci kcic juga. cuman y mau awak gantung mana.. tas dah penuh 😭 https://t.co/2absH2ipoc	neutral	0.34080377221107483
+2025-11-17 09:36:19+00:00	963751550	"@GNFI Berita tolol macam gini ternyata muncul juga klo kita buka google.
+Kebanyakan orang komennya related dgn keberadaan KCIC.
+Klo guwah mah komennya tu deu poin ajah.
+
+LU KALAU NGEBOHONG JANGAN KELEWATAN...
+LU PIKIR SAINDONESIA BODONYA SAMA KAYA TERMUL ??
+https://t.co/mXBksIr73O"	negative	0.8247929811477661
+2025-11-17 09:33:59+00:00	1885555382514507776	Menteri Keuangan Purbaya Yudhi Sadewa menjelaskan perkembangan skema penyelesaian utang proyek kereta cepat Whoosh. Ia menyebut pembahasan terbaru mengarah pada pembagian peran antara pemerintah dan BPI Danantara. Kemenkeu kemungkinan hanya menangani infrastruktur seperti jalan https://t.co/bOV2t4pqGG	neutral	0.6163462400436401
+2025-11-17 09:28:47+00:00	1941143540	"Nikah Siri dalam Kacamata Islam
+
+#UmrahKeluarga #UmrahBersamaKeluarga #KHHafidzAbdurrahman #nikahsiri #senin #hariayah #bobibos #pahlawannasional #sman72 #zohranmamdani #whoosh #kpk #roysuryo https://t.co/TmNXRRDhxA"	neutral	0.5455254912376404
+2025-11-17 09:28:10+00:00	1885555382514507776	komentar dari pengamat politik Jepang menyoroti kondisi KCIC Whoosh yang dinilai terus merugi. Data yang dibahas menyebut penggunaan harian jauh di bawah target, biaya operasional membengkak, dan stasiun yang dinilai kurang strategis membuat pendapatan sulit tercapai. Situasi ini https://t.co/lech1lQfpa	negative	0.9183558821678162
+2025-11-17 09:22:48+00:00	1223409418189987840	@mohmahfudmd Selama manusia2 korup di KPK dan Kapolrinya masih Jongos2nya Mulyono, mustahil kasus Korupsi jereta cepat Whoosh bakal berjalan dengan semestinya pak..Mereka para bajingsn itu ngga bakal berani, Ganti semua..itu baru bisa!!!	negative	0.824070930480957
+2025-11-17 09:20:49+00:00	847372542830444544	"Bersaing dengan Kereta Cepat Whoosh, Begini Nasib KA Parahyangan
+
+https://t.co/0baa3mGFrl"	neutral	0.5087157487869263
+2025-11-17 09:16:25+00:00	2946768709	"mkzs- Hai semua kalian masih cari wh ch? 
+sini bisa banget pake wh @skyland_whoosh lagi open hc juga loh yukk buruan join
+📍Tangerang
+https://t.co/KDmENNzxnw"	neutral	0.6849023103713989
+2025-11-17 09:02:16+00:00	178549834	@randomable_ Malah bikin whoosh 🙂‍↕️ jkw jkw	positive	0.6689565181732178
+2025-11-17 09:01:33+00:00	45049631	@Rochman1974 @awikuchuz Cuci tangan...? Maksudnya whoosh, ikn...??? 😆😆😆	neutral	0.46384739875793457
+2025-11-17 08:59:57+00:00	1945366720954425344	"Cina gak rugi apa2. Yg rugi Indonesia. Apa ruginya Cina? Apa iya Cina merasa rugi? Ada sejumlah analisis yang mengkhawatirkan bahwa Cina memaksakan proyek kereta cepat ini untuk mendapatkan barter Pulau/Kepulauan Natuna 
+#AdiliJokowiGibran 
+#AdiliJokowiGibran https://t.co/pOxfJ6h21X https://t.co/ydgEUDAUYe"	negative	0.8612766265869141
+2025-11-17 08:51:12+00:00	1037959976520626176	@semurbetawi_ Mungkin whoosh bisa dipasang disini kak	neutral	0.788607656955719
+2025-11-17 08:51:05+00:00	1604184554415493120	"..dari pada peyan jadi pahlawan bayarin hutangnya whoosh sekian ratus triliun, lebih pantas peyan jadi pahlawan buat anak bangsa. bangun infrastruktur di pelosok negeri demi mereka.
+..tanggung jawab kok ke hutangnya bajingan tolol itu? kenapa bukan ke rakyat?
+
+@prabowo 
+@Gerindra https://t.co/yuoNbz2NlC"	negative	0.6810404658317566
+2025-11-17 08:50:05+00:00	1985217320558678016	"Lihat video lina! #TikTok https://t.co/lwp9qxtNwp
+
+Anak anak saya pasti ikut jejak saya ga mungkin ikut jejak whoosh"	positive	0.6125632524490356
+2025-11-17 08:46:55+00:00	1737058663662231552	@yusufgunawan @teddykusumaw81 @PemkotMalang @KAI121 @EmilDardak @infomalang @Malangraya_info Akeh sing rusak &amp; bahaya ndek endi2, koyok ndek Kebalen &amp; Fly over Kotalama, mungkin anggaran biaya perbaikan e wes kesedot gae bayar utang Whoosh 😄	negative	0.6074416637420654
+2025-11-17 08:34:55+00:00	1165864549	Sebelum mamah bapa gak ada cuma pengen ngajak mereka nyobain kereta cepat, LRT, MRT, jalan-jalan di Jakarta. Lihat monas, shalat di istiqlal. Bismillah goals taun depan deh.	positive	0.49470943212509155
+2025-11-17 08:27:03+00:00	214299051	"JAKARTA - BANDUNG MENIKMATI KERETA WHOOSH
+
+Stasiun Halim Jakarta buka loket dari jam 05.30 WIB
+Tarif Jakarta Bandung Rp250.000/orang ekonomi
+Waktu tempuh saat ini 45 menit Halim - Tegalluar
+Stasiun Whoosh saat ini :
+
+Halim - Karawang - Padalarang - Tegalluar https://t.co/qFvslFXUAm"	neutral	0.896784782409668
+2025-11-17 08:26:43+00:00	1119586774710284294	padahal lebih enak beli dadakan pas nyampe kcic trus cetak di mesin :(	negative	0.7362752556800842
+2025-11-17 08:26:11+00:00	1119586774710284294	eh?! kenapa sekarang whoosh gabisa beli pake mesin siiiiikkkk???? kenapa harus full dialihin digitalisasi?	negative	0.7889955043792725
+2025-11-17 08:18:42+00:00	1090439964683231232	@txtdrimedia daripada mematikan peternakan lokal, mending buat bayar itu utang whoosh, kayanya danantara isinya orang2 kebelet korup biar pas ditinggal mati, dia masuk nerakanya bareng2 sama anak cucu	negative	0.8779036402702332
